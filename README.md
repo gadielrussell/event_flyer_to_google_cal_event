@@ -16,3 +16,7 @@ Tesseract OCR needs to be installed on the machine that is hosting this service.
 - **google-auth** – for handling credentials
 - **google-auth-oauthlib** – for OAuth 2.0 flow
 - **google-api-python-client** – for accessing the Google Calendar API
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
